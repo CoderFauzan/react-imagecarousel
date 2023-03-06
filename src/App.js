@@ -24,7 +24,7 @@ export default function App() {
 
   return (
     <div>
-      <h2>Project 1: Carousel</h2>
+      <h2>Carousel</h2>
       <div className="slider">
         <div className="left-arrow" onClick={prevSlide}>
           ⬅
